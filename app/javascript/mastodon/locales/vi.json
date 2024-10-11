@@ -441,7 +441,7 @@
   "limited_account_hint.action": "Vẫn cứ xem",
   "limited_account_hint.title": "Người này đã bị ẩn bởi quản trị viên {domain}.",
   "link_preview.author": "Bởi {name}",
-  "link_preview.more_from_author": "Thêm từ {name}",
+  "link_preview.more_from_author": "Viết bởi {name}",
   "link_preview.shares": "{count, plural, other {{counter} lượt chia sẻ}}",
   "lists.account.add": "Thêm vào danh sách",
   "lists.account.remove": "Xóa khỏi danh sách",

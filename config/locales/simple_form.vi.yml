@@ -290,7 +290,7 @@ vi:
           sign_up_requires_approval: Giới hạn đăng ký
         severity: Mức độ
       notification_emails:
-        appeal: Ai đó kháng cáo kiểm duyệt
+        appeal: Ai đó khiếu nại kiểm duyệt
         digest: Gửi email định kỳ
         favourite: Ai đó thích tút của bạn
         follow: Ai đó theo dõi bạn

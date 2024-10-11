@@ -151,7 +151,7 @@ vi:
     scopes:
       admin:read: đọc mọi dữ liệu trên máy chủ
       admin:read:accounts: đọc thông tin nhạy cảm của tất cả các tài khoản
-      admin:read:canonical_email_blocks: đọc thông tin nhạy cảm của tất cả khối email chuẩn
+      admin:read:canonical_email_blocks: đọc thông tin nhạy cảm của tất cả khối email biến thể
       admin:read:domain_allows: đọc thông tin nhạy cảm của tất cả các tên miền cho phép
       admin:read:domain_blocks: đọc thông tin nhạy cảm của tất cả các tên miền chặn
       admin:read:email_domain_blocks: đọc thông tin nhạy cảm của tất cả các miền email chặn
@@ -159,7 +159,7 @@ vi:
       admin:read:reports: đọc thông tin của các báo cáo và các tài khoản bị báo cáo
       admin:write: sửa đổi tất cả dữ liệu trên máy chủ
       admin:write:accounts: áp đặt hành động kiểm duyệt trên tài khoản
-      admin:write:canonical_email_blocks: áp đặt kiểm duyệt đối với chặn email
+      admin:write:canonical_email_blocks: áp đặt kiểm duyệt đối với chặn email biến thể
       admin:write:domain_allows: áp đặt kiểm duyệt đối với các email cho phép
       admin:write:domain_blocks: áp đặt kiểm duyệt đối với các tên miền chặn
       admin:write:email_domain_blocks: áp đặt kiểm duyệt đối với các tên miền email chặn
